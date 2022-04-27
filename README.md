@@ -1,4 +1,15 @@
 
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=fahimekermall&label=Profile%20views&color=0e75b6&style=flat" alt="fahimekermall" /> </p>
+
+<p align="left"> <a href="https://twitter.com/fahimekermall" target="blank"><img src="https://img.shields.io/twitter/follow/fahimekermall?logo=twitter&style=for-the-badge" alt="fahimekermall" /></a> </p>
+
+- 🔭 I’m currently working on [BlogBank](https://blog-post-media.web.app/)
+
+- 🌱 I’m currently learning **React, NodeJs, Python.**
+@@ -28,4 +26,4 @@
+</p>
+
 <h3 align="left">Languages and Tools:</h3>
 
 ```json
