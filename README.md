@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Samiul Basir Fahim</h1>
 <h3 align="center">A mern stack web application developer from Bangladesh</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?center=true&width=380&lines=Full+Stack+Node.js+Developer;">
+</p>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fahimekermall&label=Profile%20views&color=0e75b6&style=flat" alt="fahimekermall" /> </p>
 
