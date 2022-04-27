@@ -28,18 +28,23 @@
 ```json
 {
   "languages": ["Javascript", "Typescript", "Python"],
+  
   "frameworks/libraries": {
     "backend": ["Nodejs", "Expressjs"],
     "frontend": ["Reactjs", "TailwindCss"]
   },
+  
+  
   "database": ["MongoDB"],
+  
+  
   "misc": [
+  
     "Vscode",
     "Firebase",
     "GitHub",
     "Heroku",
     "Linux",
-    
     
   ]
 }
