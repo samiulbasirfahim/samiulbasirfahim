@@ -1,13 +1,10 @@
 <h1 align="center">Hi 👋, I'm Samiul Basir Fahim</h1>
-<h3 align="center">A mern stack web application developer from Bangladesh</h3>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?center=true&width=380&lines=Full+Stack+Node.js+Developer;">
 </p>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fahimekermall&label=Profile%20views&color=0e75b6&style=flat" alt="fahimekermall" /> </p>
-
-<p align="left"> <a href="https://twitter.com/fahimekermall" target="blank"><img src="https://img.shields.io/twitter/follow/fahimekermall?logo=twitter&style=for-the-badge" alt="fahimekermall" /></a> </p>
 
 - 🔭 I’m currently working on [BlogBank](https://blog-post-media.web.app/)
 
@@ -23,10 +20,6 @@
 
 - ⚡ Fun fact **I think i'm abnormal.**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/fahimekermall" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fahimekermall" height="30" width="40" /></a>
-</p>
 <h3 align="left">Languages and Tools:</h3>
 
 ```json
