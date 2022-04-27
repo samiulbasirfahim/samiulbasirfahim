@@ -27,20 +27,20 @@
 
 ```json
 {
-  "languages": ["Javascript", "Typescript", "Python", "Golang", "C/++"],
+  "languages": ["Javascript", "Typescript", "Python"],
   "frameworks/libraries": {
-    "backend": ["Nodejs", "Expressjs","NestJS", "Django"],
-    "frontend": ["Angular", "Bootstrap"]
+    "backend": ["Nodejs", "Expressjs"],
+    "frontend": ["Reactjs", "TailwindCss"]
   },
-  "database": ["Mysql", "PostgreSQL", "MongoDB", "Redis"],
+  "database": ["MongoDB"],
   "misc": [
-    "Docker",
-    "AWS(EC2, S3, Elastic transcoder, SQS, SNS)",
-    "Git",
-    "Kubernetes",
-    "Nginx",
-    "RabbitMQ",
-    "gRPC"
+    "Vscode",
+    "Firebase",
+    "GitHub",
+    "Heroku",
+    "Linux",
+    
+    
   ]
 }
 ```
