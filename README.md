@@ -7,7 +7,6 @@
 - 🔭 I’m currently working on [BlogBank](https://blog-post-media.web.app/)
 
 - 🌱 I’m currently learning **React, NodeJs, Python.**
-@@ -28,4 +26,4 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
