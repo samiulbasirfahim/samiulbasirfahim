@@ -48,5 +48,5 @@
 ```
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fahimekermall)](https://github.com/anuraghazra/github-readme-stats)
 
-<img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=ashik-mahmud&show_icons=true&theme=nord&hide_border=true" />
-<img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=ashik-mahmud&theme=nord&hide_border=true" />
+<img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=fahimekermall&show_icons=true&theme=nord&hide_border=true" />
+<img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=fahimekermall&theme=nord&hide_border=true" />
